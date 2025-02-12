@@ -1,0 +1,44 @@
+= Couchbase Lite auf Java – Installation
+
+:param-abstract: Dieser Inhalt bietet Anleitungen, die es Ihnen ermöglichen, Couchbase Lite auf {param-name} bereitzustellen.
+:param-related: {gs-install--xref} | {gs-prereqs--xref} | {gs-build--xref}
+:topic-group:
+
+:url-download-ee: https://packages.couchbase.com/releases/couchbase-lite-java/{version-full}/couchbase-lite-java-ee-{version-full}.zip[Enterprise Edition]
+:url-download-ce: https://packages.couchbase.com/releases/couchbase-lite-java/{version-full}/couchbase-lite-java-{version-full}.zip[Community Edition]
+
+= Bonita-Dokumentation
+:description: Erfahren Sie, wie Sie das Beste aus der Bonita-Plattform und all ihren Komponenten herausholen können.
+:page-aliases: ROOT:how-tos-index .adoc
+
+Erfahren Sie, wie Sie das Beste aus der Bonita-Plattform und all ihren Komponenten herausholen können.
+
+[.card-section]
+== Ihr Automatisierungsprojekt mit Bonita
+[.card.card-index]
+xref:bonita-overview:what-is-bonita-index .adoc
+[.card.card-index]
+xref:ROOT:release-notes .adoc
+[.card.card-index]
+xref:ROOT:project-best-practices-index .adoc
+[.card.card-index]
+xref:ROOT:api-index .adoc
+
+[.card-section]
+== Schnellstart
+[.card.card-index]
+xref:ROOT:bonita-studio-download-installation .adoc
+[.card.card-index]
+xref:ROOT:getting-started-index .adoc
+[.card.card-index]
+xref:ROOT:runtime-installation-index .adoc
+
+[.card-section]
+== Sie sind nicht allein
+[.card.card-index]
+https://community.bonitasoft.com/c/q-a/6[[.card-title]#Fragen & Antworten in der Bonita-Community# [.card-body.card-content-overflow]#pass:q[Stellen Sie Ihre Frage, geben Sie eine Antwort] #]
+[.card.card-index]
+https://community.bonitasoft.com/c/project/5[[.card-title]#Community-Projekte# [.card-body.card-content-overflow]#pass:q[Fangen Sie nicht bei Null an und nutzen Sie Artefakte, die von Community-Mitgliedern geteilt wurden] #]
+[.card.card-index]
+
+https://www.youtube.com/playlist?list=PLvvoQatxaHOMHRiP7hFayNXTJNdxIEiYp[[.card-title]#Ihre Reise, um Bonita zu lernen# [.card-body.card-content-overflow]#pass:q[Wiederholungen unserer Bonita Camps] #]
